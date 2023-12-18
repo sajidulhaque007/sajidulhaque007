@@ -1,4 +1,15 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sajidulhaque007&theme=black-ice&border_radius=4&card_width=500)](https://git.io/streak-stats)
+- 💻 Web Developer
+- ⚡ I love learning new technologies 
+- 📫 Email sajidulhaque007@gmail.com
+
+https://komarev.com/ghpvc/?username=sajidulhaque007&label=Profile%20views&color=E4405F&style=flat
+- 📫 How to reach me: ...
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sajidulhaque007/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajidulhaque007)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajidulhaque007/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajidulhaque007@gmail.com)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sajidulhaque007&theme=radical&border_radius=4&card_width=500)](https://git.io/streak-stats)
 
 <!--
 **sajidulhaque007/sajidulhaque007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
