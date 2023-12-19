@@ -7,68 +7,85 @@
 Desirous of a Software Engineering role in a challenging  workplace that welcomes innovative ideas and offers growth opportunities and a positive environment for accomplishing projects. I am looking to further develop using my skills. I want to utilize my ability to flourish in an established company as a successful Software Engineer. Seeking a challenging position in an organization where I can use my talents and skills to grow and expand the organization as well as myself. 
 
 ### Skills:
--Php
--Laravel
--Ajax
--Mysql
--jQuery
--javascript
--vuejs
--bootstrap
--TailwindCSS
--Strong understanding of Data Structures, OOP, and MVC/MVT architectures
--Experience in RESTful API development and integration
+- **Languages:**
+  - Php
+  - Javascript
 
-### Experience:
--Web Developer 
--AROBIL LTD, BANANI, DHAKA  
--SEPT 2023 TO PRESENT
+- **Web Frameworks:**
+  - Laravel
+  - Vue.js
 
--Laravel Developer 
--Avanteca Limited 
--AUG 2022 TO SEP 2023 
+- **Frontend:**
+  - Ajax
+  - jQuery
+  - Bootstrap
+  - TailwindCSS
 
--Jr Laravel Developer (Remote)  
--MEDIMART BD, UTTARA, DHAKA  
--JUN 2021 TO JULY 2022 
+- **Database:**
+  - Mysql
 
-###Certification
-▪ Course: PHP with Laravel Framework  
-▪ Issuer: BASIS 
-▪ Medium: BITM 
+- **Other:**
+  - Strong understanding of Data Structures, OOP
+  - Experience in MVC/MVT architectures
+  - RESTful API development and integration
 
-▪ Course: JavaScript, Bootstrap & PHP- Certification 
-▪ Issuer: YouAccel Training 
-▪ Medium: Udemy 
+### Experience
+- **Web Developer**
+   - *Company:* AROBIL LTD, BANANI, DHAKA
+   - *Duration:* SEPT 2023 TO PRESENT
 
-▪ Course: Professional English Communication Skill  
-▪ Issuer: WSDA New Zealand 
-▪ Medium: BASIS 
+- **Laravel Developer**
+   - *Company:* Avanteca Limited
+   - *Duration:* AUG 2022 TO SEP 2023 
+
+- **Jr Laravel Developer (Remote)**
+   - *Company:* MEDIMART BD, UTTARA, DHAKA
+   - *Duration:* JUN 2021 TO JULY 2022
 
 
-### Recent Projects:
-###Title: Customer Relationship Management  System 
-▪ Store and manage customer contact  information 
-▪ Keep track of interactions with leads,  customers, and other contacts 
-▪ Capture and track leads 
-▪ Generate finance reports based on monthly  income and expenses 
-▪ Automated invoice generation and sending mail to customer/client 
+### Certifications
+- **Course: PHP with Laravel Framework**
+   - Issuer: BASIS
+   - Medium: BITM
 
-###Title: E-Library Management System
-▪ A SAAS-based e-library software where  users can borrow books and access online  on a monthly subscription basis along with  blogs and forums.-collaborated with  
-frontend, backend, and app developers in  the entire application-developed API for the  Android platform-integrated third-party  APIs
+- **Course: JavaScript, Bootstrap & PHP- Certification**
+   - Issuer: YouAccel Training
+   - Medium: Udemy
 
-###Title: Egypt E-Visa Application Software(EgyptAir) 
-▪ E-Visa application 
-▪ E-Visa processing 
-▪ Mobile compatible website 
-▪ E-Wallet with Top-up options 
-▪ Auto status check of applied visa applications etc
+- **Course: Professional English Communication Skill**
+   - Issuer: WSDA New Zealand
+   - Medium: BASIS
 
+
+### Recent Projects
+
+#### Project 1: Customer Relationship Management System
+- **Description:**
+  - Store and manage customer contact information
+  - Keep track of interactions with leads, customers, and other contacts
+  - Capture and track leads
+  - Generate finance reports based on monthly income and expenses
+  - Automated invoice generation and sending mail to customer/client
+
+#### Project 2: E-Library Management System
+- **Description:**
+  - A SAAS-based e-library software where users can borrow books and access online on a monthly subscription basis along with blogs and forums.
+  - Collaborated with frontend, backend, and app developers in the entire application.
+  - Developed API for the Android platform.
+  - Integrated third-party APIs.
+
+#### Project 3: Egypt E-Visa Application Software (EgyptAir)
+- **Description:**
+  - E-Visa application
+  - E-Visa processing
+  - Mobile compatible website
+  - E-Wallet with Top-up options
+  - Auto status check of applied visa applications, etc.
 
 
 
 - 📫 How to reach me: ...
+  
 [![Telephone](https://img.shields.io/badge/Telephone-007BFF?style=for-the-badge&logo=telephone&logoColor=white)](tel:+8801634174881)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801634174881)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sajidulhaque007/)
