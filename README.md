@@ -10,20 +10,16 @@ Desirous of a Software Engineering role in a challenging  workplace that welcome
 - **Languages:**
   - Php
   - Javascript
-
 - **Web Frameworks:**
   - Laravel
   - Vue.js
-
 - **Frontend:**
   - Ajax
   - jQuery
   - Bootstrap
   - TailwindCSS
-
 - **Database:**
   - Mysql
-
 - **Other:**
   - Strong understanding of Data Structures, OOP
   - Experience in MVC/MVT architectures
@@ -33,7 +29,7 @@ Desirous of a Software Engineering role in a challenging  workplace that welcome
 - **Web Developer**
    - *Company:* AROBIL LTD, BANANI, DHAKA
    - *Duration:* SEPT 2023 TO PRESENT
-
+   - 
 - **Laravel Developer**
    - *Company:* Avanteca Limited
    - *Duration:* AUG 2022 TO SEP 2023 
@@ -41,7 +37,6 @@ Desirous of a Software Engineering role in a challenging  workplace that welcome
 - **Jr Laravel Developer (Remote)**
    - *Company:* MEDIMART BD, UTTARA, DHAKA
    - *Duration:* JUN 2021 TO JULY 2022
-
 
 ### Certifications
 - **Course: PHP with Laravel Framework**
@@ -56,9 +51,7 @@ Desirous of a Software Engineering role in a challenging  workplace that welcome
    - Issuer: WSDA New Zealand
    - Medium: BASIS
 
-
 ### Recent Projects
-
 #### Project 1: Customer Relationship Management System
 - **Description:**
   - Store and manage customer contact information
@@ -81,8 +74,6 @@ Desirous of a Software Engineering role in a challenging  workplace that welcome
   - Mobile compatible website
   - E-Wallet with Top-up options
   - Auto status check of applied visa applications, etc.
-
-
 
 - 📫 How to reach me: ...
   
