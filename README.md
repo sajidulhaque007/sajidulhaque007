@@ -3,6 +3,8 @@
 - 📫 Email sajidulhaque007@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidulhaque007&label=Profile%20views&color=E4405F&style=flat" alt="anas0" /> </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sajidulhaque007&theme=nordfox&border_radius=4&card_width=500)](https://git.io/streak-stats)
+
 ### Summary:
 Desirous of a Software Engineering role in a challenging  workplace that welcomes innovative ideas and offers growth opportunities and a positive environment for accomplishing projects. I am looking to further develop using my skills. I want to utilize my ability to flourish in an established company as a successful Software Engineer. Seeking a challenging position in an organization where I can use my talents and skills to grow and expand the organization as well as myself. 
 
@@ -29,7 +31,7 @@ Desirous of a Software Engineering role in a challenging  workplace that welcome
 - **Web Developer**
    - *Company:* AROBIL LTD, BANANI, DHAKA
    - *Duration:* SEPT 2023 TO PRESENT
-   - 
+     
 - **Laravel Developer**
    - *Company:* Avanteca Limited
    - *Duration:* AUG 2022 TO SEP 2023 
@@ -75,7 +77,7 @@ Desirous of a Software Engineering role in a challenging  workplace that welcome
   - E-Wallet with Top-up options
   - Auto status check of applied visa applications, etc.
 
-- 📫 How to reach me: ...
+  📫 How to reach me: ...
   
 [![Telephone](https://img.shields.io/badge/Telephone-007BFF?style=for-the-badge&logo=telephone&logoColor=white)](tel:+8801634174881)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801634174881)
@@ -84,7 +86,6 @@ Desirous of a Software Engineering role in a challenging  workplace that welcome
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajidulhaque007/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajidulhaque007@gmail.com)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sajidulhaque007&theme=nordfox&border_radius=4&card_width=500)](https://git.io/streak-stats)
 
 <!--
 **sajidulhaque007/sajidulhaque007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
