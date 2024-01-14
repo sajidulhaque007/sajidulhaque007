@@ -79,7 +79,7 @@ Desirous of a Software Engineering role in a challenging  workplace that welcome
 
   📫 How to reach me: ...
   
-[![Telephone](https://img.shields.io/badge/Telephone-007BFF?style=for-the-badge&logo=telephone&logoColor=white)](tel:+8801634174881)
+[![Telephone](https://img.shields.io/badge/Telephone-007BFF?style=for-the-badge&logo=telephone&logoColor=white)](tel:+(880)1634174881)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801634174881)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sajidulhaque007/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajidulhaque007)
