@@ -3,7 +3,8 @@
 - 📫 Email sajidulhaque007@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidulhaque007&label=Profile%20views&color=E4405F&style=flat" alt="anas0" /> </p>
 
-[![Sajidul Haque's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajidulhaque007&theme=vue)](https://git.io/streak-stats)
+<!-- [![Sajidul Haque's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajidulhaque007&theme=vue)](https://git.io/streak-stats) -->
+
 
 ![Sajidul Haque's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajidulhaque007&show_icons=true&theme=vue)
 
