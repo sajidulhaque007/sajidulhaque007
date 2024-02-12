@@ -11,7 +11,7 @@
 
 
 ### Summary:
-Desirous of a Software Engineering role in a challenging  workplace that welcomes innovative ideas and offers growth opportunities and a positive environment for accomplishing projects. I am looking to further develop using my skills. I want to utilize my ability to flourish in an established company as a successful Software Engineer. Seeking a challenging position in an organization where I can use my talents and skills to grow and expand the organization as well as myself. 
+Desirous of a Software Engineering role in a challenging  workplace that welcomes innovative ideas and offers growth opportunities and a positive environment for accomplishing projects. I am looking to further develop using my skills. I want to utilize my ability to flourish in an established company as a successful Software Engineer. Seeking a challenging position in an organization where I can use my talents and skills to grow and expand the organization as well as myself.
 
 ### Skills:
 - **Languages:**
