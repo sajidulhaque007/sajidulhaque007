@@ -1,107 +1,109 @@
-- 💻 Web Application Developer (Php, Laravel)
-- ⚡ I love learning new technologies 
-- 📫 Email sajidulhaque007@gmail.com
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidulhaque007&label=Profile%20views&color=E4405F&style=flat" alt="anas0" /> </p>
+## 👨‍💻 MD SAJIDUL HAQUE — Software Engineer
 
-<!-- [![Sajidul Haque's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajidulhaque007&theme=vue)](https://git.io/streak-stats) -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sajidulhaque007&label=Profile%20views&color=E4405F&style=flat" alt="profile views" />
+</p>
 
+- 💼 Full-Stack Developer (5+ years) — Specialized in **PHP/Laravel**, **WordPress**, and **MERN Stack** (React, Next.js, Node.js, MongoDB)
+- 🚀 Passionate about building scalable web apps, clean RESTful APIs, and robust backend systems
+- ⚙️ Skilled in **DevOps** practices including Docker and VPS deployment
+- 📫 Email: [sajidulhaque007@gmail.com](mailto:sajidulhaque007@gmail.com)
 
 ![Sajidul Haque's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajidulhaque007&show_icons=true&theme=vue)
 
+---
 
+### 🧠 Summary
+Innovative and performance-driven Software Engineer with strong knowledge in building secure, scalable, and high-performance applications. Eager to apply technical expertise in a collaborative environment to deliver top-tier solutions for modern businesses.
 
-### Summary:
-Desirous of a Software Engineering role in a challenging  workplace that welcomes innovative ideas and offers growth opportunities and a positive environment for accomplishing projects. I am looking to further develop using my skills. I want to utilize my ability to flourish in an established company as a successful Software Engineer. Seeking a challenging position in an organization where I can use my talents and skills to grow and expand the organization as well as myself.
+---
 
-### Skills:
-- **Languages:**
-  - Php
-  - Javascript
-- **Web Frameworks:**
-  - Laravel
-  - Vue.js
-- **Frontend:**
-  - Ajax
-  - jQuery
-  - Bootstrap
-  - TailwindCSS
-- **Database:**
-  - Mysql
-- **Other:**
-  - Strong understanding of Data Structures, OOP
-  - Experience in MVC/MVT architectures
-  - RESTful API development and integration
+### 🛠 Skills
 
-### Experience
-- **Web Developer**
-   - *Company:* AROBIL LTD, BANANI, DHAKA
-   - *Duration:* SEPT 2023 TO PRESENT
-     
-- **Laravel Developer**
-   - *Company:* Avanteca Limited
-   - *Duration:* AUG 2022 TO SEP 2023 
+- **Languages**: PHP, JavaScript, TypeScript
+- **Frameworks**: Laravel, Vue.js, React, Next.js, Express.js
+- **Frontend**: Bootstrap, Tailwind CSS, Ajax, jQuery
+- **Backend**: Node.js, Laravel
+- **Database**: MySQL, MongoDB, Redis
+- **Tools**: Docker, Git, Nginx, VPS Deployment
+- **CMS**: WordPress
+- **Concepts**: OOP, MVC/MVT, REST API Development, Scalable Architecture
 
-- **Jr Laravel Developer (Remote)**
-   - *Company:* MEDIMART BD, UTTARA, DHAKA
-   - *Duration:* JUN 2021 TO JULY 2022
+---
 
-### Certifications
-- **Course: PHP with Laravel Framework**
-   - Issuer: BASIS
-   - Medium: BITM
+### 💼 Experience
 
-- **Course: JavaScript, Bootstrap & PHP- Certification**
-   - Issuer: YouAccel Training
-   - Medium: Udemy
+#### 🚀 Software Engineer (Tech Lead) — *TripNest Limited*
+**Jan 2024 – Present**
+- Architected scalable CRM and OTA platforms using Laravel and MERN stack
+- Implemented containerized workflows with Docker and managed VPS deployments
+- Built RESTful APIs and integrated 3rd-party APIs to enhance functionality
 
-- **Course: Professional English Communication Skill**
-   - Issuer: WSDA New Zealand
-   - Medium: BASIS
+#### 👨‍💻 Software Engineer — *AROBIL LTD*
+**Sep 2023 – Jan 2024**
+- Developed new features and maintained legacy Laravel applications
+- Delivered CRM systems and integrated APIs to streamline business workflows
 
-### Recent Projects
-#### Project 1: Customer Relationship Management System
-- **Description:**
-  - Store and manage customer contact information
-  - Keep track of interactions with leads, customers, and other contacts
-  - Capture and track leads
-  - Generate finance reports based on monthly income and expenses
-  - Automated invoice generation and sending mail to customer/client
+#### 💼 Laravel Developer — *Avanteca Limited*
+**Aug 2022 – Sep 2023**
 
-#### Project 2: E-Library Management System
-- **Description:**
-  - A SAAS-based e-library software where users can borrow books and access online on a monthly subscription basis along with blogs and forums.
-  - Collaborated with frontend, backend, and app developers in the entire application.
-  - Developed API for the Android platform.
-  - Integrated third-party APIs.
+#### 👨‍💻 Jr. Laravel Developer (Remote) — *Medimart BD*
+**Jun 2021 – Jul 2022**
 
-#### Project 3: Egypt E-Visa Application Software (EgyptAir)
-- **Description:**
-  - E-Visa application
-  - E-Visa processing
-  - Mobile compatible website
-  - E-Wallet with Top-up options
-  - Auto status check of applied visa applications, etc.
+---
 
-  📫 How to reach me: ...
-  
+### 🧪 Projects
+
+#### ✅ OTA Platform (Visa, Packages & Hotel)
+- Visa module with automated document processing
+- Tour package engine with real-time pricing
+- Upcoming hotel booking microservices  
+**Tech:** Express.js, Next.js, Redis, Docker, VPS
+
+#### ✅ Egypt E-Visa Application (EgyptAir)
+- Laravel-based web platform for visa application & processing
+- Features: E-wallet, auto status checks, mobile compatibility  
+**Tech:** Laravel, Bootstrap
+
+#### ✅ Railway Estate Management System
+- Government system to manage licenses and railway landowner records
+- CRM-style finance tracking and automated invoice system  
+**Tech:** Laravel, Bootstrap
+
+#### ✅ Customer Relationship Management System
+- Lead management, contact tracking, financial reporting
+- Automated invoices and email communication  
+**Tech:** Laravel, Bootstrap
+
+#### ✅ E-Library SAAS System
+- Subscription-based platform for digital book access and lending
+- Includes forums, blogs, and mobile API  
+**Tech:** Laravel, Bootstrap
+
+---
+
+### 🧾 Certifications
+
+- **PHP with Laravel Framework** — BASIS (BITM)
+- **JavaScript, Bootstrap & PHP** — YouAccel (Udemy)
+- **Professional English Communication** — WSDA New Zealand (BASIS)
+
+---
+
+### 🎓 Education
+
+- **B.Sc. in Computer Science & Engineering**  
+  IUBAT — 2016 to 2021  
+  Active Member: IUBAT IT Society, Programming Club
+
+---
+
+### 🌐 Connect with Me
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801634174881)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sajidulhaque007/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajidulhaque007)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajidulhaque007/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajidulhaque007@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=githubpages&logoColor=white)](https://sajidulhaque007.github.io/me/)
 
-
-<!--
-**sajidulhaque007/sajidulhaque007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
