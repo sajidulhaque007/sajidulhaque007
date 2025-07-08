@@ -48,7 +48,7 @@ Innovative and performance-driven Software Engineer with strong knowledge in bui
 **Aug 2022 – Sep 2023**
 
 #### 👨‍💻 Jr. Laravel Developer (Remote) — *Medimart BD*
-**Jun 2021 – Jul 2022**
+**Jun 2019 – Jul 2022**
 
 ---
 
