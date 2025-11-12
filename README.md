@@ -34,21 +34,35 @@ Innovative and performance-driven Software Engineer with strong knowledge in bui
 ### 💼 Experience
 
 #### 🚀 Software Engineer (Tech Lead) — *TripNest Limited*
-**Jan 2024 – Present**
+**FEB 2024 – Present**
 - Architected scalable CRM and OTA platforms using Laravel and MERN stack
 - Implemented containerized workflows with Docker and managed VPS deployments
 - Built RESTful APIs and integrated 3rd-party APIs to enhance functionality
 
-#### 👨‍💻 Software Engineer — *AROBIL LTD*
+#### 👨‍💻 Web Application Engineer — *AROBIL LTD*
 **Sep 2023 – Jan 2024**
 - Developed new features and maintained legacy Laravel applications
 - Delivered CRM systems and integrated APIs to streamline business workflows
 
-#### 💼 Laravel Developer — *Avanteca Limited*
+#### 💼 Web Software Engineer — *Avanteca Limited*
 **Aug 2022 – Sep 2023**
-
-#### 👨‍💻 Jr. Laravel Developer (Remote) — *Medimart BD*
-**Jun 2019 – Jul 2022**
+- Maintaining web-based applications
+- Designing and building web applications using Laravel
+  
+#### 👨‍💻 Laravel Programmer — *Medimart BD*
+**Jun 2021 – Jan 2022**
+- Collaborated with web designers, backend developers, and
+  UX designers to design, build improved web products
+- Created a RESTful API for Medimart app. Add/ update/ delete/products and
+  design the admin panel dashboard
+  
+#### 👨‍💻 Jr Laravel Developer — *CATCH BANGLADESH*
+**Jun 2020 – Jan 2021**
+- Conceptualized, created, and managed dynamic web pages
+  for data display and entry using appropriate technologies
+  (HTML, Tailwind CSS, Laravel)
+- Resolved web application issues based on external and
+  internal reports with 100% efficiency
 
 ---
 
@@ -71,7 +85,7 @@ Innovative and performance-driven Software Engineer with strong knowledge in bui
 **Tech:** Laravel, Bootstrap
 
 #### ✅ Customer Relationship Management System
-- Lead management, contact tracking, financial reporting
+- Lead management, contact tracking, and financial reporting
 - Automated invoices and email communication  
 **Tech:** Laravel, Bootstrap
 
